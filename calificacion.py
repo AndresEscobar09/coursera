@@ -8,7 +8,7 @@ except:
 
 if scr > 0.0 and scr < 1.0 :
     if scr < 0.6 :
-        print("F--")
+        print("F")
     elif scr >= 0.9 :
         print("A")
     elif scr >= 0.8 :
