@@ -11,7 +11,7 @@ print(c[1:6])
 
 # agregar elemtos a una lista.
 stuff = list()
-stuff.append('book')
+stuff.append('book')#comentario 
 stuff.append(99)
 stuff.append('cookie')
 print(stuff)
